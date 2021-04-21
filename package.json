@@ -1,0 +1,23 @@
+{
+  "name": "team-profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbohn32/Team-Profile.git"
+  },
+  "author": "Dan Bohn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbohn32/Team-Profile/issues"
+  },
+  "homepage": "https://github.com/dbohn32/Team-Profile#readme"
+}
