@@ -10,6 +10,8 @@ This is a command line application that generates a team contact page.
 - inquirer
 - testing with jest
 
+## Link to Video demo
+https://vimeo.com/539888914
 
 ## Screenshot
 
